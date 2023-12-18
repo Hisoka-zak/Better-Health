@@ -70,7 +70,7 @@ function AddMeals() {
                 <div class="input-group">
                 <label>Calories</label>
                     <input type="number"  
-                     onChange={(e) => {
+                     onChange={(e) =>{
                       setMcalories(e.target.value);
                     }}/>
                 </div>
