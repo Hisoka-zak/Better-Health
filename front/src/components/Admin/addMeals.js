@@ -63,7 +63,7 @@ function AddMeals() {
                     }}/>
                 <label>Meal img Url </label>
                     <input type="name" 
-                     onChange={(e) => {
+                     onChange={(e) =>{
                       setMurl(e.target.value);
                     }}/>
                 </div>
