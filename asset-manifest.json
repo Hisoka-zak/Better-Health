@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Better-Health/static/css/main.024ec410.css",
+    "main.js": "/Better-Health/static/js/main.14c95423.js",
+    "static/js/787.25471cf6.chunk.js": "/Better-Health/static/js/787.25471cf6.chunk.js",
+    "static/media/quots_img.jpg": "/Better-Health/static/media/quots_img.f6f7e860b5bc09894806.jpg",
+    "static/media/caloris.jpg": "/Better-Health/static/media/caloris.ea22c3466b7d39112d43.jpg",
+    "static/media/logo.png": "/Better-Health/static/media/logo.d1e3de183a8535c4692d.png",
+    "static/media/BBQ-Chicken.webp": "/Better-Health/static/media/BBQ-Chicken.4defd1c6aed30f9a287d.webp",
+    "static/media/Sandwich-Grilled-Chicken.webp": "/Better-Health/static/media/Sandwich-Grilled-Chicken.150b9608ee131c6f3010.webp",
+    "static/media/Chicken-Pasta.webp": "/Better-Health/static/media/Chicken-Pasta.e07860a3d859bdf91786.webp",
+    "static/media/Banana-Pancake.webp": "/Better-Health/static/media/Banana-Pancake.49a223f8534c62ebf4eb.webp",
+    "index.html": "/Better-Health/index.html",
+    "main.024ec410.css.map": "/Better-Health/static/css/main.024ec410.css.map",
+    "main.14c95423.js.map": "/Better-Health/static/js/main.14c95423.js.map",
+    "787.25471cf6.chunk.js.map": "/Better-Health/static/js/787.25471cf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.024ec410.css",
+    "static/js/main.14c95423.js"
+  ]
+}
